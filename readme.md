@@ -1,1 +1,1 @@
-git@github.com:Andrew478/ono-tebe-nado-fd.git
+https://github.com/Andrew478/ono-tebe-nado-fd
